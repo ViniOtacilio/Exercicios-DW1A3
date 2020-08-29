@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <title>WEB</title>
+</head>
+<body>
+   
+    <h2>Menu</h2>
+    <a href="#dadosPessoais">Dados pessoais</a>
+    <br>
+    <a href="#objetivo">Objetivo</a>
+    <br>
+    <a href="#formaçãoAcademica">Formação acadêmica</a>
+    <br>
+    <a href="#experiênciaProfissional">Experiência Profissional</a>
+    <br>
+    <a href="#atividadesComplementares">Atividades Complementares </a>
+    <br>
+    <a href="#idioma">Idiomas</a>
+    <br>
+   
+    <h2 id="dadosPessoais">Dados pessoais</h2>
+    <hr>
+    <i>Nome: Fulano Silva</i>
+    <br>
+    <i>Email: <a href="mailto:meu_email@example.org">meu_email@example.org</a> (Ao clicar, o programa de e-mail do usuário abrirá)</i>
+    <br>
+    <i>Github: <a href="https://github.com/example" target="_blank">Meu Github</a> (Ao clicar, irá abrir em outra janela)</i>
+    <br>
+   
+    <h2 id="objetivo">Objetivo</h2>
+    <hr>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce arcu lorem, dictum et venenatis sed, ultricies non tortor. Vestibulum ullamcorper cursus ullamcorper.</p>
+    <h2 id="formaçãoAcademica">Formação acadêmica</h2>
+    <hr>
+    <ul>
+        <li>Escola 1</li>
+        <li>MBA</li>
+    </ul>
+    <h2 id="experiênciaProfissional">Experiência Profissional</h2>
+    <hr>
+    <ul>
+        <li>Experiência 1</li>
+        <li>Experiência 2</li>
+        <li>Experiência 3</li>
+    </ul>
+    <h2 id="atividadesComplementares">Atividades Complementares</h2>
+    <hr>
+    <ul>
+        <li>Curso 1</li>
+        <li>Curso 2</li>
+    </ul>
+    <h2 id="idioma">Idioma</h2>
+    <hr>
+    <ul>
+        <li>Inglês</li>
+        <ul>
+            <li>Escreve Bem</li>
+            <li>Lê Bem</li>
+            <li>Compreende Bem</li>
+            <li>Fala Regular</li>
+        </ul>
+    </ul>
+    <ul>
+        <li>Klingon</li>
+            <ul>
+                <li>Escreve Pouco</li>
+                <li>Lê Bem</li>
+                <li>Compreende Bem</li>
+                <li>Fala Bem</li>
+            </ul>
+    </ul>
+</body>
+</html>
